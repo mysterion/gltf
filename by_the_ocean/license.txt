@@ -1,0 +1,11 @@
+Model Information:
+* title:	DAE Diorama - By the ocean
+* source:	https://sketchfab.com/3d-models/dae-diorama-by-the-ocean-353af9faedc94bbfb803ec05c14cd03b
+* author:	Immanuel Claerhout (https://sketchfab.com/immanuel.claerhout999)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DAE Diorama - By the ocean" (https://sketchfab.com/3d-models/dae-diorama-by-the-ocean-353af9faedc94bbfb803ec05c14cd03b) by Immanuel Claerhout (https://sketchfab.com/immanuel.claerhout999) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,7 +1,30 @@
 {
     "envs": [
-        "modern_living_room/scene.gltf",
-		"pine_forest/scene.gltf",
-		"farm/scene.gltf"
+        "/attic/scene.gltf",
+        "/by_the_ocean/scene.gltf",
+        "/modern_living_room/scene.gltf",
+        "/pine_forest/scene.gltf",
+        "/farm/scene.gltf",
+        "/attic/scene.gltf",
+        "/by_the_ocean/scene.gltf",
+        "/farm/scene.gltf",
+        "/living_room/scene.gltf",
+        "/modern_living_room/scene.gltf",
+        "/pine_forest/scene.gltf",
+        "/possum_springs/scene.gltf",
+        "/school/scene.gltf",
+        "/suite/scene.gltf",
+        "/trailer_park/scene.gltf"
+    ],
+    "skybox": [
+        "/skybox/anime_sky/scene.gltf",
+        "/skybox/autumn_forest/scene.gltf",
+        "/skybox/basic_sky/scene.gltf",
+        "/skybox/fairy_forest_day/scene.gltf",
+        "/skybox/milky_way/scene.gltf",
+        "/skybox/pine_forest/scene.gltf",
+        "/skybox/savanna/scene.gltf",
+        "/skybox/sunny_day_at_the_beach_anime_style/scene.gltf",
+        "/skybox/sunroof_in_the_city/scene.gltf"
     ]
 }
