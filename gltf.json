@@ -1,6 +1,7 @@
 {
     "envs": [
         "modern_living_room/scene.gltf",
-		"pine_forest/scene.gltf"
+		"pine_forest/scene.gltf",
+		"farm/scene.gltf"
     ]
 }
